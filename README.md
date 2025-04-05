@@ -1,11 +1,18 @@
-<h3 align="center">Developer from Azerbaijan</h3>
+
+![Masterhead](https://miro.medium.com/v2/resize:fit:1400/1*qBNlFWQ9G_RPVm7tbZaXOw.jpeg)
+
+
+
+<h3 align="center">A passionate frontend developer from India</h3>
 
 - 🌱 I’m currently learning **PHP**
 
 - 📫 How to reach me **qurbanovqurbanov66@gmail.com**
 
-<h3 align="left">Connect with me: +994 55 452 54 20</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://stackoverflow.com/users/30165592" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="30165592" height="30" width="40" /></a>
+<a href="https://instagram.com/ceyhungurbanovv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ceyhungurbanovv" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
