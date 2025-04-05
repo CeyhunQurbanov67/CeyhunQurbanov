@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **qurbanovqurbanov66@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: +994 55 452 54 20</h3>
 <p align="left">
 </p>
 
